@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web3 ,TypeScript and GraphQL**
 
-- 👨‍💻 All of my projects are available at [aman-bairagi-portfolio.vercel.app](aman-bairagi-portfolio.vercel.app)
+- 👨‍💻My Latest Project [Merged&Share](https://mergedandshare.in/)
 
 - 💬 Ask me about **ReactJs , NextJS, TailwindCSS , MongoDB , NodeJS , Prisma **
 
